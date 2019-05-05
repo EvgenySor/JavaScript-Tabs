@@ -5,11 +5,14 @@
 
 **Файл с реализацией функционала — `main.js`**
 
-**info-header**
+### Памятка
+
+#### 1. info-header
+
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-header.png)
 
-**info-header-tab**
+#### 2. info-header-tab
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-header-tab.png)
 
-**info-tabcontent**
+#### 1. info-tabcontent
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-tabcontent.png)
