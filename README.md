@@ -7,12 +7,12 @@
 
 ### Памятка
 
-#### 1. info-header
+#### 1. info-header:
 
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-header.png)
 
-#### 2. info-header-tab
+#### 2. info-header-tab:
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-header-tab.png)
 
-#### 1. info-tabcontent
+#### 3. info-tabcontent:
 ![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-tabcontent.png)
