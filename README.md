@@ -5,5 +5,6 @@
 
 **Файл с реализацией функционала — `main.js`**
 
-![info-header](https://ibb.co/6s7krYq)
+**info-header**
+![Info-header](https://github.com/EvgenySor/Pictures/raw/master/info-header.png)
 
